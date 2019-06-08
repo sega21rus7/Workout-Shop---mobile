@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apk="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_main_page"
+        android:orderInCategory="1"
+        android:title="@string/action_main_page"
+        apk:showAsAction="never"/>﻿
+    <item
+        android:id="@+id/action_katalog"
+        android:orderInCategory="2"
+        android:title="@string/action_katalog"
+        apk:showAsAction="never"/>﻿
+    <item
+        android:id="@+id/action_delivery"
+        android:orderInCategory="3"
+        android:title="@string/action_delivery"
+        apk:showAsAction="never"/>﻿
+    <item
+        android:id="@+id/action_payment"
+        android:orderInCategory="4"
+        android:title="@string/action_payment"
+        apk:showAsAction="never"/>﻿
+    <item
+        android:id="@+id/action_shop_in_moscow"
+        android:orderInCategory="5"
+        android:title="@string/action_shop_in_moscow"
+        apk:showAsAction="never"/>﻿
+    <item
+        android:id="@+id/action_contacts"
+        android:orderInCategory="6"
+        android:title="@string/action_contacts"
+        apk:showAsAction="never"/>﻿
+</menu>
